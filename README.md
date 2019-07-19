@@ -1,6 +1,6 @@
-# Apriori with Node ! 👌🔥
+# APRIORI WITH NODE.JS ! 👌🔥
 
-Cleaning and preparing the Titanic 🚢 data-set for the Apriori algorithm.
+KDD homework consists of cleaning and preparing the Titanic.csv 🚢 data-set then extracting Association Rules using the **Apriori algorithm** and interpreting the results.
 
 ## 😒 Why using JavaScript for KDD :
 
